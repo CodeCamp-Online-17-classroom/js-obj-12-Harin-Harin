@@ -2,6 +2,7 @@
 ### Lab58 Object: HR System
 - ให้รับข้อมูลเป็นชื่อพนักงาน
 - หากมีพนักงานที่ชื่อตรงกับคีย์ในอ็อบเจ็คด้านล่างให้แสดงข้อความว่า Name: john, salary: 1000, address: Ratchathewi, Bangkok หากไม่มีชื่อแสดงข้อความว่า Not Found
+- หริณ มาเบ้า
 
 ```JavaScript
 const employees = {
